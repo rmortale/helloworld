@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmortale/helloworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmortale/helloworld/issues"
+  },
+  "homepage": "https://github.com/rmortale/helloworld#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
